@@ -15,9 +15,9 @@ The project was developed to solve the problems that are faced in the manual sys
 - Stock Reports
 
 ## Admin Panel
-![](POS.PNG)
+![](Screenshots/POS.PNG)
 ## POS Panel
-![](POS-Panel.PNG)
+![](Screenshots/POS-Panel.PNG)
 
 ## Contributions 
 Contributions, issues and feature requests are welcome.
