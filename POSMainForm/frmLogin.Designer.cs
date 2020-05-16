@@ -100,7 +100,6 @@
             this.txtPassword.PasswordChar = '*';
             this.txtPassword.Size = new System.Drawing.Size(225, 24);
             this.txtPassword.TabIndex = 1;
-            this.txtPassword.Text = "admin786";
             this.txtPassword.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtPassword_KeyDown);
             // 
             // txtusername
@@ -110,7 +109,6 @@
             this.txtusername.Name = "txtusername";
             this.txtusername.Size = new System.Drawing.Size(225, 24);
             this.txtusername.TabIndex = 0;
-            this.txtusername.Text = "hamzadilber";
             this.txtusername.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtusername_KeyDown);
             // 
             // panel2
